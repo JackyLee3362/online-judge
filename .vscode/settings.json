@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "stack": "cpp",
+    "ostream": "cpp"
+  },
+  "workbench.colorTheme": "Default Dark+",
+}
